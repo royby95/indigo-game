@@ -1,3 +1,2 @@
 # indigo-game
-Indigo
-HyperSkillProjects
+Indigo Game Project to play against a computer 
